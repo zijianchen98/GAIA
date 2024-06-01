@@ -1,2 +1,1 @@
-# GAIA
-A Generic AI-generated Action Dataset
+# GAIA: Rethinking Action Quality Assessment for AI-Generated Videos ![alt text](image.png)📊
