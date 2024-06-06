@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <div>
 <a href="https://github.com/zijianchen98/GAIA"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/GAIA"/></a>
@@ -53,3 +54,7 @@ Please feel free to cite our paper if you use the GAIA database in your research
 
 
 ```
+=======
+# GAIA: A Generic AI-Generated Action Dataset
+
+>>>>>>> b74e21baed7d5e6457306a83a430e71ec333d02b
