@@ -120,7 +120,7 @@ Please contact the first author of this paper for queries.
 If you find our work interesting, please feel free to cite our paper:
 ```
 @article{chen2024gaia,
-  title={Exploring the Naturalness of AI-Generated Images},
+  title={GAIA: Rethinking Action Quality Assessment for AI-Generated},
   author={Chen, Zijian and Sun, Wei and Tian, Yuan and Jia, Jun and Zhang, Zicheng and Wang, Jiarui and Huang, Ru and Min, Xiongkuo and Zhai, Guangtao and Zhang, Wenjun},
   journal={arXiv preprint arXiv:2406.06087},
   year={2024}
