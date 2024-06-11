@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/zijianchen98/GAIA"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/GAIA"/></a>
     <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/github/stars/zijianchen98/GAIA"/></a>
-    <a href="http://arxiv.org"><img src="https://img.shields.io/badge/Arxiv-xxxx-red"/></a>
+    <a href="https://arxiv.org/abs/2406.06087"><img src="https://img.shields.io/badge/Arxiv-2406.06087-red"/></a>
     <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/badge/Database-To be Released-green"></a>
     <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/badge/Awesome-GAIA-orange"/></a>
 </div>
