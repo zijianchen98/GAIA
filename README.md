@@ -48,7 +48,7 @@ impact on the quality of AI-generated videos_
 ## Release
 - [2024/6/17] 🔥 We upload the used action prompt in `prompts_all.csv` as well as its corresponding category (`action_label.xlsx`)
 - [2024/6/11] 🔥 We are preparing the **GAIA** data and meta information.
-- [2024/6/6] 🔥 [Github repo](https://github.com/zijianchen98/GAIA) for **GAIA** is online.
+- [2024/6/6]  [Github repo](https://github.com/zijianchen98/GAIA) for **GAIA** is online.
 
 ## Dataset Construction
 In this work, we opt to collect annotations from a novel **_causal reasoning syllogism_**-based perspective. We decompose an action process into three parts: 1) **_action subject as major premise_**, 2) **_action completeness as minor premise_**, and 3) **_action-scene interaction as conclusion_**. The rationales for this strategy are as follows: **(a)** As the visual saliency information in action-oriented videos, the rendering quality of the action subject can profoundly affect the visibility of the action, while humans excel at perceiving such generated artifacts. **(b)** Moreover, unlike parallel-form feedbacks, the order of these three parts in action syllogism inherently aligns with the human reasoning process.
