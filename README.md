@@ -61,7 +61,7 @@ Download the GAIA (9,180 videos) from the released link ([OneDrive](https://1drv
 
 Video naming rules: `(model name)_(action keyword).mp4`
 
-Action keywords also serve as the index to search the corresponding action prompt in `prompts_all.csv` 
+`(action keyword)` also serve as the index to search the corresponding action prompt in `prompts_all.csv` 
 
 ```
 GAIA
