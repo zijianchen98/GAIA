@@ -3,7 +3,7 @@
 <a href="https://github.com/zijianchen98/GAIA"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/GAIA"/></a>
     <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/github/stars/zijianchen98/GAIA"/></a>
     <a href="https://arxiv.org/abs/2406.06087"><img src="https://img.shields.io/badge/Arxiv-2406.06087-red"/></a>
-    <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/badge/Database-To be Released-green"></a>
+    <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/badge/Dataset-Released-green"></a>
     <a href="https://github.com/zijianchen98/GAIA"><img src="https://img.shields.io/badge/Awesome-GAIA-orange"/></a>
 </div>
 
@@ -50,9 +50,33 @@ impact on the quality of AI-generated videos_
 > Motivation: 1. **_Action quality_** owns a significant impact on **_the quality of AI-generated videos_**. 2. Current action quality assessment (AQA) studies predominantly predominantly focus on **_domain-specific actions_** from real videos and collect **_coarse-grained expert-only_** human ratings on limited dimensions.
 
 ## Release
+- [2024/6/18] 🔥 The proposed GAIA dataset is online!! Download it by [OneDrive](https://1drv.ms/u/c/0c2191cb01cbf002/EVwy88ItJV5CsynaboGzzqIBxGzHNxt_VwnunyZEIZ6B9g?e=PH7HRc) or [Baidu Netdisk](https://pan.baidu.com/s/13-N5A77Hgd3Vz5q-D2qkWA?pwd=utra) using Code: utra
 - [2024/6/17] 🔥 We upload the used action prompt in `prompts_all.csv` as well as its corresponding category (`action_label.xlsx`)
-- [2024/6/11] 🔥 We are preparing the **GAIA** data and meta information.
+- <p><del>[2024/6/11]  We are preparing the GAIA data and meta information.<p><del>
 - [2024/6/6]  [Github repo](https://github.com/zijianchen98/GAIA) for **GAIA** is online.
+
+## Info of GAIA Dataset
+
+Download the GAIA (9,180 videos) from the released link ([OneDrive](https://1drv.ms/u/c/0c2191cb01cbf002/EVwy88ItJV5CsynaboGzzqIBxGzHNxt_VwnunyZEIZ6B9g?e=PH7HRc) or [Baidu Netdisk](https://pan.baidu.com/s/13-N5A77Hgd3Vz5q-D2qkWA?pwd=utra) using Code: utra)
+Video naming rules: `(model name)_(action keyword).mp4`
+Action keywords also serve as the index to search the corresponding action prompt in `prompts_all.csv` 
+
+```
+GAIA
+|
+|--videos
+|  |-- Anmidiff_Abseiling.mp4
+|  |-- Anmidiff_Admiration.mp4
+|  |-- ...
+|  |-- zeroScope_Zumba.mp4
+|
+|-- MOS.csv
+```
+### Info of MOS.csv
+| filename | final action subject | final action completeness | final action interaction |
+|  Anmidiff_Abseiling.mp4  | 49.0098 | 46.9289 | 52.1406 |
+| ...  |  ... | ... | ... |
+
 
 ## Dataset Construction
 In this work, we opt to collect annotations from a novel **_causal reasoning syllogism_**-based perspective. We decompose an action process into three parts: 1) **_action subject as major premise_**, 2) **_action completeness as minor premise_**, and 3) **_action-scene interaction as conclusion_**. The rationales for this strategy are as follows: **(a)** As the visual saliency information in action-oriented videos, the rendering quality of the action subject can profoundly affect the visibility of the action, while humans excel at perceiving such generated artifacts. **(b)** Moreover, unlike parallel-form feedbacks, the order of these three parts in action syllogism inherently aligns with the human reasoning process.
