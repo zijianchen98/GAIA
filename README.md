@@ -34,8 +34,12 @@ impact on the quality of AI-generated videos_
 </div>   
 
 <div>
-<sup>*</sup>Corresponding author
+<sup>*</sup>Corresponding author 
 </div>
+
+中文版速递：[知乎](https://zhuanlan.zhihu.com/p/704035511)
+
+
 
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="GAIA_overview.jpg">
