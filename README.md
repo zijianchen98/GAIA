@@ -78,6 +78,7 @@ GAIA
 | filename | final action subject | final action completeness | final action interaction |
 
 |  Anmidiff_Abseiling.mp4  | 49.0098 | 46.9289 | 52.1406 |
+
 | ...  |  ... | ... | ... |
 
 
