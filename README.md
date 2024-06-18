@@ -58,7 +58,9 @@ impact on the quality of AI-generated videos_
 ## Info of GAIA Dataset
 
 Download the GAIA (9,180 videos) from the released link ([OneDrive](https://1drv.ms/u/c/0c2191cb01cbf002/EVwy88ItJV5CsynaboGzzqIBxGzHNxt_VwnunyZEIZ6B9g?e=PH7HRc) or [Baidu Netdisk](https://pan.baidu.com/s/13-N5A77Hgd3Vz5q-D2qkWA?pwd=utra) using Code: utra)
+
 Video naming rules: `(model name)_(action keyword).mp4`
+
 Action keywords also serve as the index to search the corresponding action prompt in `prompts_all.csv` 
 
 ```
