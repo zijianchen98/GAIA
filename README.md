@@ -50,6 +50,7 @@ impact on the quality of AI-generated videos_
 > Motivation: 1. **_Action quality_** owns a significant impact on **_the quality of AI-generated videos_**. 2. Current action quality assessment (AQA) studies predominantly predominantly focus on **_domain-specific actions_** from real videos and collect **_coarse-grained expert-only_** human ratings on limited dimensions.
 
 ## Release
+- [2024/9/26] 🔥🔥🔥 GAIA is accepted by NeurIPS2024 D&B track as a Spotlight paper. We will soon update the arxiv.
 - [2024/6/18] 🔥 The proposed GAIA dataset is online!! Download it by [OneDrive](https://1drv.ms/u/c/0c2191cb01cbf002/ESuW1De_gGxLhqa4S9W3tk4Bys1ijEvwdQCHXbaip5nbWQ?e=mjmL6i) or [Baidu Netdisk](https://pan.baidu.com/s/1tBZYtt-NJLqS4VnQmL3zLQ?pwd=ks51) using Code: ks51
 - [2024/6/17] 🔥 We upload the used action prompt in `prompts_all.csv` as well as its corresponding category (`action_label.xlsx`)
 - <p><del>[2024/6/11]  We are preparing the GAIA data and meta information.<p><del>
