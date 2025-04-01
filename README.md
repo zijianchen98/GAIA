@@ -154,9 +154,11 @@ Please contact the first author of this paper for queries.
 If you find our work interesting, please feel free to cite our paper:
 ```
 @article{chen2024gaia,
-  title={GAIA: Rethinking Action Quality Assessment for AI-Generated Videos},
-  author={Chen, Zijian and Sun, Wei and Tian, Yuan and Jia, Jun and Zhang, Zicheng and Wang, Jiarui and Huang, Ru and Min, Xiongkuo and Zhai, Guangtao and Zhang, Wenjun},
-  journal={arXiv preprint arXiv:2406.06087},
+  title={Gaia: Rethinking action quality assessment for ai-generated videos},
+  author={Chen, Zijian and Sun, Wei and Tian, Yuan and Jia, Jun and Zhang, Zicheng and Jiarui, Wang and Huang, Ru and Min, Xiongkuo and Zhai, Guangtao and Zhang, Wenjun},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={40111--40144},
   year={2024}
 }
 ```
